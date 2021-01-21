@@ -1,11 +1,26 @@
 h1{
     background-color: rgb(107, 161, 121);
-    size: 40px;
+    
+}
+h3{
+    color: black;
+}
+h5{
+    color: black;
 }
 h6{
     background-color: rgb(107, 161, 121);
     color: black;
     font-size: 14px;
+}
+a{
+    background-color: rgb(107, 161, 121);
+    color: black;
+    
+}
+th{
+    background-color: rgb(107, 161, 121);
+    width: 50%;
 }
 p{
     color: black;
